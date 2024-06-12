@@ -1,0 +1,122 @@
+body {
+  color: hsl(24, 5%, 18%);
+  font-family: "Outfit", sans-serif;
+  font-size: 16px;
+}
+
+.top-container {
+  padding: 0 7% 3%;
+}
+
+img {
+  width: 100%;
+  border-radius: 10px;
+  margin-left: 40px;
+}
+
+h1 {
+  color: hsl(24, 5%, 18%);
+  font-family: "Young Serif", serif;
+  margin-left: 40px;
+}
+
+h2 {
+  color: hsl(14, 45%, 36%);
+  font-family: "Young Serif", serif;
+  margin-left: 40px;
+}
+
+h3 {
+  color: hsl(332, 51%, 32%);
+  font-family: "Outfit", sans-serif;
+  margin-left: 40px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-left: 40px;
+}
+
+tr {
+  border-bottom: 1px solid;
+}
+
+tr:last-child {
+  border-bottom: none;
+}
+
+td {
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+ul {
+  margin-left: 20px;
+}
+
+ol {
+  margin-left: 20px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.num {
+  color: hsl(14, 45%, 36%);
+  font-weight: bold;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.top-container p {
+  line-height: 2;
+  margin-left: 40px;
+}
+
+.preparation {
+  background-color: hsl(330, 100%, 98%);
+  padding: 20px 0;
+}
+
+.preparation li {
+  padding-top: 5px;
+  padding-left: 15px;
+  line-height: 2;
+}
+
+.ingredients {
+  margin: 40px 0;
+}
+
+.ingredients li {
+  padding-top: 10px;
+  padding-left: 10px;
+  line-height: 2;
+}
+
+.instructions {
+  padding: 20px 0;
+}
+
+.instructions li {
+  padding-top: 10px;
+  padding-left: 10px;
+  line-height: 2;
+}
+
+.nutrition {
+  padding: 20px 0;
+}
+
+.nutrition p {
+  margin-left: 40px;
+}
